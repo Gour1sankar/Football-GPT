@@ -1,0 +1,335 @@
+A player is offside if nearer the opponent goal line than both the ball and second-last opponent when the ball is played.
+A player cannot be offside in their own half.
+A player cannot be offside directly from a goal kick.
+A player cannot be offside directly from a corner kick.
+A player cannot be offside directly from a throw-in.
+Being in an offside position is not an offense by itself.
+Offside is judged at the moment a teammate plays the ball.
+The goalkeeper is not always the second-last opponent.
+Any opponent can count as the second-last defender.
+Offside decisions consider body parts that can legally score.
+Hands are ignored for offside judgments.
+Arms are ignored for offside judgments.
+Attackers level with the second-last opponent are onside.
+Attackers level with the ball are onside.
+Interfering with play can trigger an offside offense.
+Interfering with an opponent can trigger an offside offense.
+Gaining an advantage from an offside position is punishable.
+An offside offense results in an indirect free kick.
+Offside was introduced to prevent goal-hanging.
+Offside interpretations have changed many times.
+VAR can review offside decisions.
+Semi-automated offside technology is used in major tournaments.
+Offside lines are generated using tracking technology.
+A player can be offside by a small margin.
+Delayed flags are common when VAR is available.
+Assistant referees often wait before raising the flag.
+Offside is one of football's most debated laws.
+An offside position depends on relative player locations.
+Offside judgments occur throughout matches.
+The offside law encourages balanced play.
+Attackers time runs to avoid offside.
+Defensive lines often use offside traps.
+The offside trap aims to catch attackers ahead of play.
+Coordinated movement is essential for an offside trap.
+High defensive lines often use offside traps.
+Poor timing can break an offside trap.
+Offside traps require communication.
+Center-backs often lead the defensive line.
+Offside traps can fail against quick passes.
+VAR stands for Video Assistant Referee.
+VAR assists referees with specific decisions.
+VAR reviews goals and goal incidents.
+VAR reviews penalty decisions.
+VAR reviews direct red card incidents.
+VAR reviews mistaken identity cases.
+VAR does not re-referee entire matches.
+The on-field referee makes the final decision.
+VAR officials operate from a video room.
+Multiple camera angles support VAR reviews.
+VAR was introduced gradually across competitions.
+The 2018 World Cup used VAR.
+VAR can overturn clear errors.
+VAR can recommend an on-field review.
+Referees may use pitchside monitors.
+VAR checks occur after goals.
+VAR checks occur after penalties.
+VAR checks occur after red cards.
+VAR can confirm referee decisions.
+VAR can change referee decisions.
+Offside technology often works alongside VAR.
+VAR aims to improve decision accuracy.
+VAR cannot eliminate all controversy.
+Communication links referees and VAR officials.
+VAR reviews can add stoppage time.
+VAR decisions are announced differently by competition.
+Goal-line technology is separate from VAR.
+VAR does not review yellow cards alone.
+VAR intervention requires a clear and obvious error.
+Factual incidents receive different review standards.
+VAR has changed modern football officiating.
+Penalty kicks are taken from the penalty mark.
+The penalty mark is twelve yards from goal.
+Only the goalkeeper may defend a penalty.
+The kicker must move the ball forward.
+The ball is in play after it is kicked.
+The goalkeeper must remain on the goal line initially.
+Goalkeepers may move sideways before the kick.
+Penalty kicks punish certain fouls inside the penalty area.
+Direct free-kick offenses can lead to penalties.
+Handball offenses can result in penalties.
+A penalty goal counts as one goal.
+Rebounds are allowed during normal play penalties.
+Penalty shootouts use different procedures.
+Encroachment can affect penalty outcomes.
+VAR may review penalty incidents.
+Referees can order retakes.
+Feinting during the run-up is permitted.
+Illegal feinting after the run-up can be punished.
+Penalty takers often choose corners.
+Power and placement influence success.
+Goalkeepers study penalty tendencies.
+Penalty shootouts decide some knockout matches.
+Shootouts are not counted as match goals.
+Penalty shootouts usually involve five kicks per team.
+Sudden death follows tied five-kick shootouts.
+Coin tosses determine shootout order.
+Penalty specialists are valued by teams.
+The penalty area extends eighteen yards from goal.
+Goalkeepers can save penalties with any legal body part.
+Penalties are among football's highest-probability chances.
+Extra time consists of two periods.
+Each extra-time period lasts fifteen minutes.
+Extra time is used in certain knockout matches.
+A short interval separates extra-time halves.
+Teams switch ends during extra time.
+Extra time follows a tied score after regulation.
+Not all competitions use extra time.
+Some competitions proceed directly to penalties.
+Goals in extra time count normally.
+Substitutions may be available during extra time.
+Player fatigue increases during extra time.
+Tactical approaches often change in extra time.
+Extra-time goals can decide matches.
+The golden goal was once used in football.
+The silver goal was once used experimentally.
+Golden goal ended matches immediately.
+Silver goal ended matches after a period ended.
+Both golden and silver goals were abolished.
+Extra time can produce dramatic comebacks.
+Goalkeepers often face more shots in extra time.
+Injuries become more common with fatigue.
+Fitness influences extra-time performance.
+Yellow cards are used for cautions.
+A yellow card warns a player.
+Two yellow cards equal a red card.
+Dissent can result in a yellow card.
+Unsporting behavior can result in a yellow card.
+Delaying a restart can earn a yellow card.
+Persistent fouling can earn a yellow card.
+Entering without permission can earn a yellow card.
+Leaving without permission can earn a yellow card.
+Failure to respect distance can earn a yellow card.
+Simulation can result in a yellow card.
+Removing a shirt during celebration earns a yellow card.
+Excessive celebration can earn a yellow card.
+Tactical fouls often receive yellow cards.
+Referees record yellow card cautions.
+Yellow cards affect player discipline records.
+Accumulated yellow cards can cause suspensions.
+Competitions set different suspension thresholds.
+Coaches can receive yellow cards.
+Substitutes can receive yellow cards.
+Team officials can receive yellow cards.
+A yellow card does not reduce team numbers.
+Yellow cards help control behavior.
+Referees use yellow cards worldwide.
+Professional football adopted cards in the twentieth century.
+Yellow cards improve communication across languages.
+A second yellow requires dismissal.
+Players often adjust behavior after cautions.
+Yellow cards can influence tactical decisions.
+Captains may intervene after yellow cards.
+Referees may issue multiple yellow cards in one incident.
+Red cards dismiss players from matches.
+A direct red card removes a player immediately.
+A second yellow card produces a red card.
+Violent conduct can result in a red card.
+Serious foul play can result in a red card.
+Spitting can result in a red card.
+Offensive language can result in a red card.
+Denying a goal by handball can result in a red card.
+Denying an obvious goal-scoring opportunity can result in a red card.
+Sent-off players cannot return.
+Teams play with fewer players after a red card.
+Red cards often lead to suspensions.
+VAR reviews direct red cards.
+Referees show a red card visibly.
+Goalkeepers can receive red cards.
+Substitutes can receive red cards.
+Coaches can receive red cards.
+A red card changes tactical balance.
+Teams often become more defensive after dismissals.
+Red cards can influence match outcomes.
+Professional leagues track red card statistics.
+Straight red cards differ from second-yellow dismissals.
+Violent conduct may occur on or off the ball.
+A dismissed player must leave the technical area.
+Red cards are among football's strongest sanctions.
+Free kicks restart play after many infringements.
+Direct free kicks can be scored directly.
+Indirect free kicks require a touch before a goal.
+Referees signal indirect free kicks with an arm raised.
+Direct free kicks punish more serious offenses.
+Indirect free kicks punish technical offenses.
+Defensive walls often form at free kicks.
+The wall must stand a required distance away.
+The required distance is 9.15 meters.
+Spray is often used to mark wall positions.
+Free kicks can be taken quickly.
+Quick free kicks can catch defenses unprepared.
+Ceremonial free kicks wait for the whistle.
+Goalkeepers organize defensive walls.
+Free-kick specialists develop unique techniques.
+Curling free kicks use spin.
+Knuckleball free kicks use minimal spin.
+Free kicks can be crossed into the box.
+Indirect free kicks occur for goalkeeper offenses.
+Back-pass offenses produce indirect free kicks.
+Dangerous play can result in indirect free kicks.
+Obstruction can result in indirect free kicks.
+Free kicks are a major set-piece opportunity.
+Teams practice free-kick routines.
+Defenders often jump in walls.
+Free-kick goals are highly valued.
+Corner kicks restart play after defensive touches.
+A corner is awarded when defenders last touch the ball.
+The ball must cross the goal line for a corner.
+Corner kicks are taken from the corner arc.
+Goals can be scored directly from corners.
+Direct corner goals are called Olimpicos.
+Corner takers often use inswinging deliveries.
+Corner takers often use outswinging deliveries.
+Teams use short-corner routines.
+Defenders mark attackers during corners.
+Zonal marking is common at corners.
+Man-marking is common at corners.
+Corner kicks create aerial duels.
+Goalkeepers often claim corner crosses.
+Near-post corners target front zones.
+Far-post corners target back zones.
+Corner kicks are important set pieces.
+Attackers crowd penalty areas during corners.
+Defenders clear many corner deliveries.
+Corner routines are practiced extensively.
+Teams analyze corner statistics.
+The center circle is used for kickoffs.
+Kickoffs begin each half.
+Kickoffs restart play after goals.
+The ball must move to enter play.
+Opponents stay outside the center circle initially.
+Kickoff strategies vary between teams.
+Modern rules allow backward kickoffs.
+Kickoffs provide immediate possession.
+Teams often use rehearsed kickoff patterns.
+Kickoffs occur at the center mark.
+Throw-ins restart play from touchline exits.
+The whole ball must cross the touchline.
+Throw-ins are taken with both hands.
+Throw-ins are delivered from behind the head.
+Both feet must contact the ground.
+Goals cannot be scored directly from throw-ins.
+Opponents must stand a minimum distance away.
+Long throw-ins can create scoring chances.
+Throw-ins often retain possession.
+Quick throw-ins can exploit disorganization.
+Goal kicks restart play after attacking touches.
+Goal kicks occur when attackers last touch the ball.
+The whole ball must cross the goal line.
+Goal kicks are taken inside the goal area.
+The ball is in play once kicked.
+Players may receive passes inside the box.
+Goal kicks often begin buildup sequences.
+Short goal kicks support possession football.
+Long goal kicks support direct football.
+Goalkeepers commonly take goal kicks.
+Dropped balls restart play after neutral stoppages.
+Dropped balls occur after unusual interruptions.
+Referees determine dropped-ball locations.
+Dropped balls are uncontested under modern laws.
+The restart returns possession fairly.
+Injuries can cause dropped-ball situations.
+Outside interference can cause dropped-ball situations.
+Dropped balls rarely occur compared to other restarts.
+The advantage rule allows play to continue.
+Referees apply advantage after fouls.
+Advantage benefits the fouled team.
+Referees can return to the foul if advantage fails.
+The advantage rule encourages flow.
+Attacking opportunities often trigger advantage.
+Referees signal advantage with arm gestures.
+Advantage applies throughout the field.
+The law balances fairness and continuity.
+Experienced referees use advantage effectively.
+Handball laws have evolved repeatedly.
+Not every hand contact is handball.
+Position of the arm affects decisions.
+Intent can influence handball judgments.
+Unnaturally bigger body shapes may be penalized.
+Goalkeepers may handle inside their penalty area.
+Goalkeepers cannot handle deliberate back-passes.
+Goalkeepers cannot handle throw-ins from teammates.
+Handball decisions are frequently debated.
+VAR reviews many handball incidents.
+Substitutions replace players during matches.
+Teams have substitution limits.
+Substituted players cannot usually return.
+Concussion substitutions exist in some competitions.
+Substitutions can alter tactics.
+Managers use substitutions strategically.
+Substitutions can address injuries.
+Substitutions can manage fatigue.
+Substitution windows limit stoppages.
+Extra-time substitutions may differ by competition.
+The referee controls match timing.
+A standard match lasts ninety minutes.
+Each half lasts forty-five minutes.
+Stoppage time compensates for delays.
+Injuries contribute to stoppage time.
+Substitutions contribute to stoppage time.
+VAR reviews contribute to stoppage time.
+Goal celebrations contribute to stoppage time.
+The referee decides stoppage duration.
+Additional time can exceed announced minimums.
+Captains communicate with referees.
+Captains have no special law exemptions.
+Captains often discuss decisions respectfully.
+Team leadership is expected from captains.
+Referees may address captains during disputes.
+Captains participate in pre-match coin tosses.
+Coin tosses determine kickoff choices.
+Coin tosses determine field choices.
+Fair play is promoted by football laws.
+Match officials enforce football laws.
+Assistant referees support decision-making.
+Fourth officials manage technical areas.
+Referees can stop matches for safety.
+Abandoned matches follow competition regulations.
+Floodlight failures can stop matches.
+Severe weather can suspend matches.
+Player equipment is regulated.
+Shin guards are mandatory.
+Dangerous jewelry is prohibited.
+Goalkeepers wear distinct colors.
+Referees wear distinct colors.
+Ball specifications are regulated.
+The Laws of the Game are maintained by IFAB.
+IFAB stands for International Football Association Board.
+FIFA applies IFAB Laws worldwide.
+Football laws are periodically updated.
+Law changes are tested before adoption.
+Consistency is a major officiating goal.
+Match integrity relies on law enforcement.
+Football rules apply across professional competitions.
+Football laws create a standardized global game.
+The Laws of the Game form football's regulatory foundation.
